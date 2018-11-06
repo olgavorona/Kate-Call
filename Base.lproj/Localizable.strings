@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  TinderCall
+
+  Created by Olga Vorona on 25/09/2018.
+  Copyright © 2018 Olga Vorona. All rights reserved.
+*/
+
+/// Time
+"3s" = "3s";
+"30s" = "30s";
+"1m" = "1m";
+"5m" = "5m";
+"10m" = "10m";
+"30m" = "30m";
+"1h" = "1h";
+
+/// Interface
+"Kate" = "Kate";
+
+/// Alert
+
+"RenameAlertTitle" = "Who will call?";
+"RenameTitleAction" = "Save";
+"RenamePlaceholder" = "Caller Name";
+
+/// Timer
+
+"TimerText" = "Call starts in";
+
+/// ProgressHUD
+
+"SetupCall" = "Setup Call";
+"NetworkError" = "Connection error";
+"NetworkErrorSubtitle" = "Please, use \"Call now\" button or wait with open screen";
+
+
+
+
+
+
+

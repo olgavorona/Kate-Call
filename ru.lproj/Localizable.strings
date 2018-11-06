@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  TinderCall
+
+  Created by Olga Vorona on 25/09/2018.
+  Copyright © 2018 Olga Vorona. All rights reserved.
+*/
+
+/// Time
+"3s" = "3 cек";
+"30s" = "30 сек";
+"1m" = "1 мин";
+"5m" = "5 мин";
+"10m" = "10 мин";
+"30m" = "30 мин";
+"1h" = "1 час";
+
+/// Interface
+"Kate" = "Катя";
+
+/// Alert
+
+"RenameAlertTitle" = "Кто позвонит?";
+"RenameTitleAction" = "Переименовать";
+"RenamePlaceholder" = "Имя";
+"Cancel" = "Отмена";
+
+/// Timer
+
+"TimerText" = "Звонок через";
+
+/// ProgressHUD
+
+"SetupCall" = "Устанавливаю звонок";
+"NetworkError" = "Ошибка соединения";
+"NetworkErrorSubtitle" = "Для звонка нажмите \"Call now\" или держите этот экран открытым";

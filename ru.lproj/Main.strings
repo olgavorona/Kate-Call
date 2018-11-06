@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "Kate"; ObjectID = "DwO-xY-uea"; */
+"DwO-xY-uea.text" = "Катя";
+
+/* Class = "UIButton"; normalTitle = "Call"; ObjectID = "Fih-oF-dPL"; */
+"Fih-oF-dPL.normalTitle" = "Позвонить";
+
+/* Class = "UILabel"; text = "15 min"; ObjectID = "Nuc-nd-L6k"; */
+"Nuc-nd-L6k.text" = "15 мин";
+
+/* Class = "UIButton"; normalTitle = "Call now"; ObjectID = "Uiu-hu-rZy"; */
+"Uiu-hu-rZy.normalTitle" = "Позвонить сейчас";
+
+/* Class = "UILabel"; text = "When"; ObjectID = "Vu6-L0-Ulp"; */
+"Vu6-L0-Ulp.text" = "Когда?";
+
+/* Class = "UILabel"; text = "Who gonna call?"; ObjectID = "cJO-ds-L1T"; */
+"cJO-ds-L1T.text" = "Кто позвонит?";
+
+/* Class = "UILabel"; text = "Call starts in 10:59"; ObjectID = "jrI-9H-CA0"; */
+"jrI-9H-CA0.text" = "Звонок через 10:59";
+
+/* Class = "UILabel"; text = "Set      the alarm"; ObjectID = "klM-tt-mKM"; */
+"klM-tt-mKM.text" = "Установить звонок";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "sfX-Bg-nPF"; */
+"sfX-Bg-nPF.normalTitle" = "Отменить";

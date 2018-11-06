@@ -1,0 +1,28 @@
+
+/* Class = "UILabel"; text = "Kate"; ObjectID = "DwO-xY-uea"; */
+"DwO-xY-uea.text" = "Kate";
+
+/* Class = "UIButton"; normalTitle = "Call"; ObjectID = "Fih-oF-dPL"; */
+"Fih-oF-dPL.normalTitle" = "Call";
+
+/* Class = "UILabel"; text = "15 min"; ObjectID = "Nuc-nd-L6k"; */
+"Nuc-nd-L6k.text" = "15 min";
+
+/* Class = "UIButton"; normalTitle = "Call now"; ObjectID = "Uiu-hu-rZy"; */
+"Uiu-hu-rZy.normalTitle" = "Call now";
+
+/* Class = "UILabel"; text = "When"; ObjectID = "Vu6-L0-Ulp"; */
+"Vu6-L0-Ulp.text" = "When";
+
+/* Class = "UILabel"; text = "Who gonna call?"; ObjectID = "cJO-ds-L1T"; */
+"cJO-ds-L1T.text" = "Who gonna call?";
+
+/* Class = "UILabel"; text = "Call starts in 10:59"; ObjectID = "jrI-9H-CA0"; */
+"jrI-9H-CA0.text" = "Call starts in 10:59";
+
+/* Class = "UILabel"; text = "Set      the alarm"; ObjectID = "klM-tt-mKM"; */
+"klM-tt-mKM.text" = "Set
+the alarm";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "sfX-Bg-nPF"; */
+"sfX-Bg-nPF.normalTitle" = "Cancel";
